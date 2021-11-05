@@ -4,7 +4,8 @@ Konstantīns Kotovičs DP2-1.
 # Projekta nosaukums
 Rūtiņas
 ## Apraksts
-	Spēle: rūriņas. Programma izvada 9 tukšas šūnas     |   |           Rūtiņu numuri:  1  2  3
+	Spēle: rūriņas. Programma izvada 9 tukšas šūnas  
+						      |   |           Rūtiņu numuri:  1  2  3
                                                   -------------                       4  5  6
                                                       |   |                           7  8  9
                                                   -------------
@@ -20,3 +21,7 @@ Rūtiņas
 	- C++
 ## Izmantotie avoti
 	- http://cppstudio.com/post/339/
+
+Jā būs kaut-kādas problēmas ar šo programmu, ir rezerves programma kalkulators ar matricām. 
+No sākuma lietotājs ievada ciparus priekš abām matricām (katra 3x3) un pēc tām matemātisko operācijas zīmi: +/-/*
+Programma izskaitļo un izvada galīgo atbildi (vienu matricu).

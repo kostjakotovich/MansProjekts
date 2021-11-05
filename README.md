@@ -5,7 +5,7 @@ Konstantīns Kotovičs DP2-1.
 Rūtiņas
 ## Apraksts
 	Spēle: rūriņas. Programma izvada 9 tukšas šūnas  
-	    					        |   |           Rūtiņu numuri:  1  2  3
+	    					           |   |           Rūtiņu numuri:  1  2  3
                                                   -------------                       4  5  6
                                                       |   |                           7  8  9
                                                   -------------
